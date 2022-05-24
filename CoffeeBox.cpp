@@ -9,6 +9,7 @@ double const LATTE_PRICE = 2.20;
 int const MAX_CUPS = 700;
 int const SERVICE_PIN = 8814; 
 
+
 void orderCoffee(double price);
 void putCoin(int choice);
 void showCoffeeMessage();
